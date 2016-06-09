@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EShop</title>
+
+<link rel="stylesheet" href="css/style.css" >
+</head>
+<body>
+
+<div id="parallax">
+    <h1>Simple EM Parallax Technique</h1>
+    <img src="images/candles.jpg" alt>
+    <img src="images/cherry-tree.jpg" alt>
+    <img src="images/pagoda-surrounded-by-trees.jpg" alt>
+</div>
+<script type="text/javascript">
+    window.onscroll = function() {
+    if (window.pageYOffset > 0) {
+        document.getElementById("parallax").style.fontSize = (window.pageYOffset/20)*.1+"em";
+        }
+    }
+</script>
+</body>
+</html>

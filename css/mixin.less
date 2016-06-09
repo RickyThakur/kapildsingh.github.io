@@ -1,0 +1,16 @@
+.mixin-loop-width (@i) when (@i > 0) {
+  .w-@{i} {
+    width:  ~"@{i}%";
+  }
+  .mixin-loop-width(@i - 1);
+}
+
+.mixin-loop-col-width (@i ,@cw) when (@i > 0) {
+  @w:@i*@cw;
+  .col-sm-@{c} {
+    width:  ~"@{w}%";
+  }
+  .mixin-loop-col-width((@i - 1), @cw);
+}
+
+@col_w:100/@cols;

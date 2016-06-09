@@ -1,0 +1,177 @@
+@font-face {
+    font-family: 'Gregor_Cresnar';
+    src:    url('fonts/Gregor_Cresnar.eot?s67a3t');
+    src:    url('fonts/Gregor_Cresnar.eot?s67a3t#iefix') format('embedded-opentype'),
+        url('fonts/Gregor_Cresnar.ttf?s67a3t') format('truetype'),
+        url('fonts/Gregor_Cresnar.woff?s67a3t') format('woff'),
+        url('fonts/Gregor_Cresnar.svg?s67a3t#Gregor_Cresnar') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'Gregor_Cresnar' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gc-avatar:before {
+    content: "\e900";
+}
+.icon-gc-avatar-1:before {
+    content: "\e901";
+}
+.icon-gc-back:before {
+    content: "\e902";
+}
+.icon-gc-book:before {
+    content: "\e903";
+}
+.icon-gc-cancel:before {
+    content: "\e904";
+}
+.icon-gc-chat:before {
+    content: "\e905";
+}
+.icon-gc-chat-1:before {
+    content: "\e906";
+}
+.icon-gc-chat-2:before {
+    content: "\e907";
+}
+.icon-gc-copy:before {
+    content: "\e908";
+}
+.icon-gc-dislike:before {
+    content: "\e909";
+}
+.icon-gc-download:before {
+    content: "\e90a";
+}
+.icon-gc-download-1:before {
+    content: "\e90b";
+}
+.icon-gc-edit:before {
+    content: "\e90c";
+}
+.icon-gc-envelope:before {
+    content: "\e90d";
+}
+.icon-gc-folder:before {
+    content: "\e90e";
+}
+.icon-gc-garbage:before {
+    content: "\e90f";
+}
+.icon-gc-glasses:before {
+    content: "\e910";
+}
+.icon-gc-hand:before {
+    content: "\e911";
+}
+.icon-gc-headphones:before {
+    content: "\e912";
+}
+.icon-gc-heart:before {
+    content: "\e913";
+}
+.icon-gc-house:before {
+    content: "\e914";
+}
+.icon-gc-like:before {
+    content: "\e915";
+}
+.icon-gc-link:before {
+    content: "\e916";
+}
+.icon-gc-logout:before {
+    content: "\e917";
+}
+.icon-gc-magnifying-glass:before {
+    content: "\e918";
+}
+.icon-gc-monitor:before {
+    content: "\e919";
+}
+.icon-gc-musical-note:before {
+    content: "\e91a";
+}
+.icon-gc-next:before {
+    content: "\e91b";
+}
+.icon-gc-next-1:before {
+    content: "\e91c";
+}
+.icon-gc-padlock:before {
+    content: "\e91d";
+}
+.icon-gc-paper-plane:before {
+    content: "\e91e";
+}
+.icon-gc-phone-call:before {
+    content: "\e91f";
+}
+.icon-gc-photo-camera:before {
+    content: "\e920";
+}
+.icon-gc-pie-chart:before {
+    content: "\e921";
+}
+.icon-gc-piggy-bank:before {
+    content: "\e922";
+}
+.icon-gc-placeholder:before {
+    content: "\e923";
+}
+.icon-gc-printer:before {
+    content: "\e924";
+}
+.icon-gc-reload:before {
+    content: "\e925";
+}
+.icon-gc-settings:before {
+    content: "\e926";
+}
+.icon-gc-settings-1:before {
+    content: "\e927";
+}
+.icon-gc-share:before {
+    content: "\e928";
+}
+.icon-gc-shopping-bag:before {
+    content: "\e929";
+}
+.icon-gc-shopping-cart:before {
+    content: "\e92a";
+}
+.icon-gc-shuffle:before {
+    content: "\e92b";
+}
+.icon-gc-speaker:before {
+    content: "\e92c";
+}
+.icon-gc-star:before {
+    content: "\e92d";
+}
+.icon-gc-tag:before {
+    content: "\e92e";
+}
+.icon-gc-upload:before {
+    content: "\e92f";
+}
+.icon-gc-upload-1:before {
+    content: "\e930";
+}
+.icon-gc-vector:before {
+    content: "\e931";
+}
+
